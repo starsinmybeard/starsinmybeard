@@ -5,7 +5,7 @@
   
   I am brand new to the GitHub platform, 
   but hope I to find some ways to practice my coding on here!  
-  *(once i figure out how to use the site,that is...)* </p>
+  *(once i figure out how to use the site, that is...)* </p>
   
 
 
